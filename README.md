@@ -1,3 +1,26 @@
+
+<!-- dbx-style-kit -->
+<div align="center">
+
+<img src="https://img.shields.io/badge/devhub-1f6feb?style=for-the-badge" alt="devhub" />
+<img src="https://img.shields.io/badge/LANG%20TypeScript-3178c6?style=for-the-badge" alt="LANG TypeScript" />
+<img src="https://img.shields.io/badge/STARS%201-eab308?style=for-the-badge" alt="STARS 1" />
+<img src="https://img.shields.io/badge/LICENSE%20NOASSERTION-22c55e?style=for-the-badge" alt="LICENSE NOASSERTION" />
+
+<br>
+
+<img src="https://img.shields.io/badge/OPEN%20SOURCE-yes-22c55e?style=for-the-badge&logo=github&logoColor=white" alt="OPEN SOURCE" />
+<img src="https://img.shields.io/badge/BUILT%20IN%20PUBLIC-true-6366f1?style=for-the-badge&logo=opensourceinitiative&logoColor=white" alt="BUILT IN PUBLIC" />
+<img src="https://img.shields.io/badge/HANDS%20ON%20LABS-52-0ea5e9?style=for-the-badge&logo=docker&logoColor=white" alt="HANDS ON LABS" />
+<img src="https://img.shields.io/badge/DOCUMENTED-yes-14b8a6?style=for-the-badge&logo=markdown&logoColor=white" alt="DOCUMENTED" />
+
+<br>
+
+<b>DevHub (developers.databricks.com) - developer site for building on Databricks.</b>
+
+</div>
+
+---
 # DevHub
 
 **DevHub** is the home for developers building data and AI applications on Databricks. It is opinionated documentation and copy-paste-friendly templates so you—and your coding agents—can go from idea to deployed app in minutes not months.
